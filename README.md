@@ -1,0 +1,4 @@
+Variable
+========
+
+Control Chart Variable
